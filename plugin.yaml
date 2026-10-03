@@ -1,0 +1,7 @@
+name: commandcode-oauth
+kind: model-provider
+version: 0.1.0
+description: Command Code with your account sign-in (Go / free plans, no API key) — the /alpha/generate endpoint the Command Code CLI uses.
+author: Rafael Moreira (rrmlima)
+optional_env:
+  - COMMANDCODE_CLI_TOKEN
